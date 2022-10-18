@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://insuran.github.io/sitemapx.xml
